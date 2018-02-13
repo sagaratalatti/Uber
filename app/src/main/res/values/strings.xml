@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Uber</string>
+    <string name="driver">Driver</string>
+    <string name="user">User</string>
+    <string name="get_started">Get Started</string>
+    <string name="title_activity_rider">Map</string>
+
+    <plurals name="num_locations_reported">
+        <item quantity="zero">No location reported</item>
+        <item quantity="one">One location reported</item>
+        <item quantity="other">%d locations reported</item>
+    </plurals>
+
+    <string name="unknown_location">Unknown location</string>
+    <string name="ok">OK</string>
+    <string name="permission_rationale">Location permission is needed for core functionality</string>
+    <string name="permission_denied_explanation">Permission was denied, but is needed for core
+        functionality.</string>
+    <string name="settings">Settings</string>
+    <string name="request_uber">Request Uber</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="accept_ride">Accept Ride Request</string>
+</resources>
